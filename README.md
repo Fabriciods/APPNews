@@ -3,8 +3,8 @@
  o usuario filtrar e favoritar suas noticias.
  
  ## Recursos usados
- ViewBinding para localizar os componentes do XML no codigo.
- Retrofit para consumir a API
- Coroutines para controlar o fluxo das requisições e não travar a aplicação
- Room para armazenar e recuperar noticias favoritas
- Todo projeto estrutura usando arquitetura MVP
+ * ViewBinding para localizar os componentes do XML no codigo.
+ * Retrofit para consumir a API
+ * Coroutines para controlar o fluxo das requisições e não travar a aplicação
+ * Room para armazenar e recuperar noticias favoritas
+ * Todo projeto foi estruturado usando arquitetura MVP
